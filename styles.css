@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(116, 215, 240);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+.head {
+    background-color: #38b3c9;
+    text-align: center;
+    text-transform: uppercase;
+    color: #050000;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: .5em;
+    padding-bottom: 2em;
+    
+}
+
+
+.down {
+    font-size: 20px;
+    background-color: #85edff;
+    padding-bottom: 15em;
+    padding-top: 2em;
+    padding-left: 2em;
+} 
+.down p {
+    font-size: 25px;
+}
+
+a:visited {
+    color: rgb(191, 69, 248);
+}
+a:hover {
+    color: rgb(226, 43, 89);
+}
+
+
+
